@@ -1,10 +1,10 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
+title: "iamzerg.github.io/blog"
+name: "Blog"
 keywords: "Key, words, about, this, website"
-baseurl: "/blog"
-url: "http://website.com"
-description: "Website description"
+baseurl: "/blog/"
+url: "https://iamzerg.github.io"
+description: "Learn to code.  Learn to live."
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
