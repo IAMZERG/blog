@@ -62,7 +62,7 @@ I think that all about this theme is intuitive, but if you want help, please, co
 <ul>
 {% for post in site.posts %}
 
-<li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">en</a> :: <a href="{{ post.pt }}" title="{{ post.description_pt }}">pt_br</a></li>
+<li>{{ post.title }} :: <a href="{{ post.url }}{{post.baseurl}}" title="{{ post.description }}">en</a> :: <a href="{{ post.pt }}" title="{{ post.description_pt }}">pt_br</a></li>
 
 {% endfor %}
 </ul>
