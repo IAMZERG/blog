@@ -1,5 +1,6 @@
 ---
 layout: default
+author: Wes
 ---
 
 # $ cat posts.txt
