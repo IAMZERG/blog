@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Foray into the Internet of Things"
-author: Wes
+authors: Wes
 date: "2018-11-10 15:12:11 -0500"
 en: true
 ---
